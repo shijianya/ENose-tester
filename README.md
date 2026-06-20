@@ -4,7 +4,7 @@ An integrated E-nose platform including PC software, embedded firmware, hardware
 ## Repository Structure
 
 ├── Cover_Chamber    # 3D-printable sensing chamber
-├── Hardware         # Schematics, PCB files, and firmware
+├── Hardware         # Schematics and firmware
 └── Software         # PC software for data acquisition and analysis
 
 ## Features
