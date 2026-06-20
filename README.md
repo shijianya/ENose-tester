@@ -1,6 +1,7 @@
 # ENose-tester
 An integrated E-nose platform including PC software, embedded firmware, hardware schematics, and a 3D-printable sensing chamber.
-
+This project is intended for academic research and educational purposes only.
+Commercial use requires prior written permission from the author.
 ## Repository Structure
 
 ├── Cover_Chamber    # 3D-printable sensing chamber
