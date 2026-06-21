@@ -4,7 +4,7 @@ This project is intended for academic research and educational purposes only.
 Commercial use requires prior written permission from the author.
 ## Repository Structure
 
-├── Cover_Chamber    # 3D-printable sensing chamber
+├── Structure    # 3D-printable sensing chamber & acrylic plate design drawings for supporting the sensors and the breadboard
 ├── Hardware         # Schematics and firmware
 └── Software         # PC software for data acquisition and analysis
 
